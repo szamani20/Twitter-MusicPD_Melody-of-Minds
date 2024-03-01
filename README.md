@@ -2,9 +2,13 @@
 
 **Important Note: All of the User IDs and Tweet IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.**
 
+**Please note that the row number (index) of "User Timeline (Tweets) Dataset" matches that on the "Tweet Embeddings" when all the embedding parts are merged together. In other words, the i_th row in the Tweets Dataset represents the metadata (e.g. disorder, retweet count, like count, etc.) of the i_th row in the embeddings dataset that has the embeddings of the actual tweet text.**
+
 [Music Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=musics_profiles_anonymized.csv)
 
 [User Profile Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=user_profiles_anonymized.csv)
+
+[User Timeline (Tweets) Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_profiles_anonymized.csv)
 
 [Tweet Embeddings part 1](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_0.npy)
 
