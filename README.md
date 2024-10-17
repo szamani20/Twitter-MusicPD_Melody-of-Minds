@@ -2,31 +2,22 @@
 
 **Important Note: All of the User IDs and Tweet IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.**
 
-**Please note that the row number (index) of "User Timeline (Tweets) Dataset" matches that on the "Tweet Embeddings" when all the embedding parts are merged together. In other words, the i_th row in the Tweets Dataset represents the metadata (e.g. disorder, retweet count, like count, etc.) of the i_th row in the embeddings dataset that has the embeddings of the actual tweet text.**
+**Please note that the row number (index) of "User Timelines (Tweets) Dataset" matches that on the "Tweet Embeddings" when all the embedding parts are merged together. In other words, the i_th row in the Tweets Dataset represents the metadata (e.g. disorder, retweet count, like count, etc.) of the i_th row in the embeddings dataset that has the embeddings of the actual tweet text.**
 
-[Music Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=musics_profiles_anonymized.csv)
+## Users with Music
 
-[User Profile Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=user_profiles_anonymized.csv)
+### Profiles
+[User-Profiles-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Profiles-Music-Group.csv)
 
-[User Timeline (Tweets) Dataset](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_profiles_anonymized.csv)
+### Tweets (Metadata)
+[User-Timelines-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-Music-Group.csv)
 
-[Tweet Embeddings part 1](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_0.npy)
+### Tweets (Embeddings)
+[music_having_chunk_embeddings_0-1999999.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=music_having_chunk_embeddings_0-1999999.npy)
+[music_having_chunk_embeddings_2000000-3999999.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=music_having_chunk_embeddings_2000000-3999999.npy)
+[music_having_chunk_embeddings_4000000-5999999.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=music_having_chunk_embeddings_4000000-5999999.npy)
+[music_having_chunk_embeddings_6000000-7999999.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=music_having_chunk_embeddings_6000000-7999999.npy)
+[music_having_chunk_embeddings_8000000-8976627.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=music_having_chunk_embeddings_8000000-8976627.npy)
 
-[Tweet Embeddings part 2](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_1.npy)
-
-[Tweet Embeddings part 3](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_2.npy)
-
-[Tweet Embeddings part 4](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_3.npy)
-
-[Tweet Embeddings part 5](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_4.npy)
-
-[Tweet Embeddings part 6](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_5.npy)
-
-[Tweet Embeddings part 7](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_6.npy)
-
-[Tweet Embeddings part 8](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_7.npy)
-
-[Tweet Embeddings part 9](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_8.npy)
-
-[Tweet Embeddings part 10](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds?select=tweet_embeddings_chunk_9.npy)
-
+### Musics
+[User-Songs-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Songs-Music-Group.csv)
