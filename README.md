@@ -26,6 +26,12 @@
 ### Musics
 [User-Songs-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Songs-Music-Group.csv)
 
+### Hashtags
+[User-Hashtags-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Hashtags-Music-Group.csv)
+
+### URLs
+[User-URLs-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-URLs-Music-Group.csv)
+
 ## Users without Music
 
 ### Profiles
@@ -86,3 +92,9 @@
 [not_music_having4_chunk_embeddings_2000000-3999999.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=not_music_having4_chunk_embeddings_2000000-3999999.npy)
 
 [not_music_having4_chunk_embeddings_4000000-5862678.npy](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=not_music_having4_chunk_embeddings_4000000-5862678.npy)
+
+### Hashtags
+[User-Hashtags-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Hashtags-No-Music-Group.csv)
+
+### URLs
+[User-URLs-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-URLs-No-Music-Group.csv)
