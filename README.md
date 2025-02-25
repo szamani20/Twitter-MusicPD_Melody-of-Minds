@@ -1,4 +1,4 @@
-# Dataset (Kaggle links)
+# Dataset + Fitted BERTopic Models (Kaggle links)
 
 **Important Note: All of the User IDs and Tweet IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.**
 
@@ -98,3 +98,9 @@
 
 ### URLs
 [User-URLs-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-URLs-No-Music-Group.csv)
+
+## Fitted BERTopic Models
+
+[topic_model_disorder_with_music(jan21)](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=topic_model_disorder_with_music%28jan21%29)
+
+[topic_model_disorder_no_music(jan21)](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=topic_model_tweets_disorder_no_music%28jan21%29)
