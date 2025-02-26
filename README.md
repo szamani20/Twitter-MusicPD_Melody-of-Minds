@@ -11,10 +11,14 @@
 ### Profiles
 [User-Profiles-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Profiles-Music-Group.csv)
 
+This file contains information about the profile of music listening user group as described in section `Data Collection.User data collection.User profile`.
+
 ![User-Profiles-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Profiles-Music-Group.csv.png?raw=true)
 
 ### Tweets (Metadata)
 [User-Timelines-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-Music-Group.csv)
+
+This file contains information about the timeline of music listening user group as described in section `Data Collection.User data collection.User timeline`.
 
 ![User-Timelines-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Timelines-Music-Group.csv.png?raw=true)
 
@@ -32,15 +36,21 @@
 ### Musics
 [User-Songs-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Songs-Music-Group.csv)
 
+This file contains information about the music shared by the music listening user group as described in section `Data Collection.User data collection.Music data`.
+
 ![User-Songs-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Songs-Music-Group.csv.png?raw=true)
 
 ### Hashtags
 [User-Hashtags-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Hashtags-Music-Group.csv)
 
+This file contains information about the timeline of music listening user group as described in section `Data Collection.User data collection.User timeline`.
+
 ![User-Hashtags-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Hashtags-Music-Group.csv.png?raw=true)
 
 ### URLs
 [User-URLs-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-URLs-Music-Group.csv)
+
+This file contains information about the timeline of music listening user group as described in section `Data Collection.User data collection.User timeline`.
 
 ![User-URLs-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-URLs-Music-Group.csv.png?raw=true)
 
@@ -49,6 +59,8 @@
 ### Profiles
 [User-Profiles-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Profiles-No-Music-Group.csv)
 
+This file contains information about the profile of non music listening user group as described in section `Data Collection.User data collection.User profile`.
+
 ![User-Profiles-No-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Profiles-No-Music-Group.csv.png?raw=true)
 
 ### Tweets (Metadata)
@@ -56,20 +68,28 @@
 #### Chunk 1
 [User-Timelines-No-Music-Group1.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-No-Music-Group1.csv)
 
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
+
 ![User-Timelines-No-Music-Group1.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Timelines-No-Music-Group1.csv.png?raw=true)
 
 #### Chunk 2
 [User-Timelines-No-Music-Group2.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-No-Music-Group2.csv)
+
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
 
 ![User-Timelines-No-Music-Group2.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Timelines-No-Music-Group2.csv.png?raw=true)
 
 #### Chunk 3
 [User-Timelines-No-Music-Group3.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-No-Music-Group3.csv)
 
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
+
 ![User-Timelines-No-Music-Group3.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Timelines-No-Music-Group3.csv.png?raw=true)
 
 #### Chunk 4
 [User-Timelines-No-Music-Group4.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Timelines-No-Music-Group4.csv)
+
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
 
 ![User-Timelines-No-Music-Group4.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Timelines-No-Music-Group4.csv.png?raw=true)
 
@@ -118,10 +138,14 @@
 ### Hashtags
 [User-Hashtags-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-Hashtags-No-Music-Group.csv)
 
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
+
 ![User-Hashtags-No-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-Hashtags-No-Music-Group.csv.png?raw=true)
 
 ### URLs
 [User-URLs-No-Music-Group.csv](https://www.kaggle.com/datasets/rrmartin/twitter-musicpd-melody-of-minds/data?select=User-URLs-No-Music-Group.csv)
+
+This file contains information about the timeline of non music listening user group as described in section `Data Collection.User data collection.User timeline`.
 
 ![User-URLs-No-Music-Group.csv](https://github.com/szamani20/Twitter-MusicPD_Melody-of-Minds/blob/main/screenshots/User-URLs-No-Music-Group.csv.png?raw=true)
 
