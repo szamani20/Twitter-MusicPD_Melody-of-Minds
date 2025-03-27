@@ -1,5 +1,7 @@
 # Dataset + Fitted BERTopic Models (Kaggle links and screenshots)
 
+**A detailed description of this dataset is provided in a manuscript currently under review at the EPJ Data Science journal.**
+
 **Important Note: All of the User IDs and Tweet IDs Are Anonymized. No Personal Info Is Disclosed in the Datasets Publicized Here.**
 
 **Please note that the row number (index) of "User Timelines (Tweets) Dataset" matches that on the "Tweet Embeddings" when all the embedding parts are merged together. In other words, the i_th row in the Tweets Dataset represents the metadata (e.g. disorder, retweet count, like count, etc.) of the i_th row in the embeddings dataset that has the embeddings of the actual tweet text.**
